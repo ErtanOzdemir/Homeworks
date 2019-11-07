@@ -1,4 +1,4 @@
-## Made by Ertan Özdemir - Computional Thinking HW01 ##
+## Made by Ertan Özdemir - Computational Thinking HW01 ##
 
 
 def bin2dec(binary_val):
