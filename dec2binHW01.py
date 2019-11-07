@@ -1,4 +1,4 @@
-## Made by Ertan Özdemir - Computational Thinking HW01 ##
+## Made by Ertan Özdemir - Computational Thinking HW01 | 11.2019 ##
 
 
 def bin2dec(binary_val):
@@ -30,9 +30,6 @@ def bin2dec(binary_val):
             counter=counter+1
             
            
-            
-            
-
         elif binary_list[counter]=="0":
             lenghtOfValue=lenghtOfValue-1
             counter=counter+1
