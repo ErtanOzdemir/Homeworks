@@ -1,4 +1,4 @@
-## Made by Ertan Özdemir - Computational Thinking HW01 | 11.2019 ##
+## Made by Ertan Özdemir - COE103 Computational Thinking HW01 | 11.2019 ##
 
 
 def bin2dec(binary_val):
@@ -38,6 +38,7 @@ def bin2dec(binary_val):
         else:
             print("Wrong Number")
             break
+    
     print(dec_val)
             
         
