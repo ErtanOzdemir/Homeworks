@@ -8,3 +8,5 @@ Codes are related to my programming lectures at University of Istinye.
 
 - [TurtleCalculator.py](https://github.com/ErtanOzdemir/Homeworks/blob/master/TurtleCalculator.py) ([More Info](https://github.com/ErtanOzdemir/Homeworks/blob/master/assets/CompThinkHW2.pdf))
 - [BubbleSortAlgorithm.py](https://github.com/ErtanOzdemir/Homeworks/blob/master/BubbleSortAlgorithm.py)
+- [CollatzConjecture.ipynb](https://github.com/ErtanOzdemir/Homeworks/blob/master/CollatzConjecture.ipynb) ([More Info](https://en.wikipedia.org/wiki/Collatz_conjecture))
+
